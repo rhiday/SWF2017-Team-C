@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="RM2" size="15.000000 11.250000" />
+    <ImageTarget name="RM1" size="15.000000 11.250000" />
+    <ImageTarget name="Aava-uniOulu" size="15.000000 11.443696" />
+    <ImageTarget name="UniOuluSticker" size="15.000000 15.279286" />
+  </Tracking>
+</QCARConfig>

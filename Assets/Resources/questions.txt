@@ -1,0 +1,25 @@
+--Filling instruction:
+--Question title,option1,option2,option3,option4,correctanswer(,picturename in resources)
+--The correct answer is the one repeated in the last place
+--Picture is optional
+University of Oulu was established in which year?,1942,1793,1958,2001,1958
+How many students study at University of Oulu currently?,15-16000,11-12000,17-18000,20-22000,15-16000
+Which is the top subject in University of Oulu - according to QS University rankings?,Computer Science, Geography, Finance, Biomedical Engineering, Geography
+University of Oulu has recently collaborated with Nokia Bell Labs to work on an extremely demanding future technology. Can you guess what is that?,Driverless car,5G technology,Augmented Reality,Cancer research,5G technology
+How many campuses University of Oulu have in the Oulu city?,1,2,3,4,2
+Do you know the name of student housing in Oulu?,OAS,PSOAS,OSH,POS,PSOAS
+One of these following technologies was developed in Oulu. Which one?,Google Maps,Wireless charging,Bluetooth,NFC tag,NFC tag
+What is the meaning of 'Oulu'?,River,Flood,Floodwater,Snow,Floodwater
+In front of which restaurant lies this plant?,Central Station,Aava,Stories,Datagarage,Stories,testq
+Which one is this canteen’s name?,Aava,Stories,Central Station,Datagarage,Datagarage,Datagarage
+Which material is used for doing these decorations?,Paper,Tree Branch,Sucker,Bottle,Bottle,EducationCommonRoom
+Which area is the closest to here?,L5,Tellus,University Library,R door,Tellus,Lobby
+What is this?,School holiday’s decoration,Students’ production,A kind of road sign,Some event's sign,Students’ production,EducationStairs
+What is here?,Tellus,Student Center,University Library,OYY,University Library,Library
+What is this used for?,Play games,Relax,Eating,Painting,Painting,WoodLog
+What is the name of this robot?,Robocop,Altruido,Teraleon,Bumblebee,Teraleon,Robot
+Which area you will find if walk along this direction?,Tellus,Library,Student Center,L2,Student Center,GlassBox
+Which year did our library was established?,1950,1951,1959,1960,,LibraryEstablish
+How many doors exist in university?,20,21,22,25,,doors
+Which restaurant is near to this stair?,Stories,Aava,Balance,Kastari,Aava,AavaStairs
+What is the canteen’s name we can see in right part?,Universal,Kastari,Stories,Balance,Kastari,Kastari
